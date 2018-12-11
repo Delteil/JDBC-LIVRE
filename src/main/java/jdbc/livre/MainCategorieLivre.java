@@ -2,7 +2,7 @@ package jdbc.livre;
 
 import java.util.Scanner;
 
-public class mainCategorieLivre {
+public class MainCategorieLivre {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
